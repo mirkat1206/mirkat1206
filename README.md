@@ -13,14 +13,6 @@
 
 - Conducting research on Eletronic Design Automation (timing & physical design) @ IRIS Lab
 
-- Open to internships or jobs
-
-- Interested in learning different languages
-  - Native in Mandarin
-  - Fluent in English
-  - Intermediate in Japanese
-  - Currently learning German
-
 <details>
 <summary>📈 Stats</summary>
 <br>
