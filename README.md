@@ -9,9 +9,9 @@
 </a>
 </p>
 
-- Pursuing master degree in Eletronics Engineering @ National Taiwan University
+- 📖 Pursuing master degree in Eletronics Engineering @ National Taiwan University
 
-- Conducting research on Eletronic Design Automation (timing & physical design) @ IRIS Lab
+- 💡 Conducting research on Eletronic Design Automation (timing & physical design) @ IRIS Lab
 
 <details>
 <summary>📈 Stats</summary>
